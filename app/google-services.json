@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "578516904112",
+    "project_id": "allinoneupdates-fbb08",
+    "storage_bucket": "allinoneupdates-fbb08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578516904112:android:eaa4f2f48c5129f8223375",
+        "android_client_info": {
+          "package_name": "com.example.allinoneupdates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578516904112-rdihqb0vesa79rqq2o057tecfuvtjt8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSQkJ77PQCbjHKhi4TGggSjOQRK1holNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578516904112-rdihqb0vesa79rqq2o057tecfuvtjt8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578516904112:android:0c92c78f71ea9a86223375",
+        "android_client_info": {
+          "package_name": "com.rajgroup.allinoneupdates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578516904112-rdihqb0vesa79rqq2o057tecfuvtjt8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSQkJ77PQCbjHKhi4TGggSjOQRK1holNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578516904112-rdihqb0vesa79rqq2o057tecfuvtjt8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

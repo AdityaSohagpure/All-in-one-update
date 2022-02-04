@@ -1,0 +1,2 @@
+rootProject.name = "Allinoneupdates"
+include ':app'
